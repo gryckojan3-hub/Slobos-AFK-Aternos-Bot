@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "subcribe",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "RuinstableSMP.aternos.me",
-    "port": 14849,
+    "port": wrasse.aternos.host:14849,
     "version": "",
     "try-creative": false
   },
